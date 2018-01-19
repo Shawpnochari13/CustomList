@@ -10,5 +10,5 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:textSize="50dp"
-        android:text="A" />
-</RelativeLayout>
+    android:text="A" />
+    </RelativeLayout>
